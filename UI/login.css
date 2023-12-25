@@ -1,0 +1,96 @@
+body{
+    height: 100vh;
+    box-sizing : border-box;
+    width: 100vw;
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: yellow;
+    margin: 4px;
+    text-decoration: dotted underline;
+}
+
+.img{
+    width: 50vw;
+    height: 50vh;
+    margin: 0px;
+    border-radius: 10px;
+
+}
+.login{
+    background-color: aqua;
+    width: 50vw;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://img.freepik.com/free-photo/movie-background-collage_23-2149876028.jpg");
+    background-size: cover;
+    border-radius: 10px;
+    
+}
+
+form{
+    text-align: center;
+    padding: 75px;
+    
+}
+
+.parent{
+    display: flex;
+}
+
+h2{
+    margin-top: 0px;
+    font-size: 40px;
+    color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+input{
+    width: 200px;
+    height: 25px;
+    border-radius:5px;
+    background-color: black;
+    color:white ;
+}
+
+footer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+img{
+    height: 200px;
+    width: 220px;
+    margin: 20px;
+}
+
+
+h3{
+    color: gold;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#login{
+    width: 70px;
+    height: 30px;
+    border-radius: 20px;
+    border: 2px solid gold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a{
+    text-decoration: none;
+    color: yellow;
+}
+
+span{
+    text-decoration: underline;
+    color: red;
+}

@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+
+img{
+    height: 400px;
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+    padding: 20px;
+}
+
+.selectt{
+    display: flex;
+    flex-direction:row ;
+    justify-content: center;
+}
+

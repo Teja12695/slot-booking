@@ -1,0 +1,63 @@
+body {
+    width:100vw;
+    height:100vh;
+    box-sizing: border-box;
+    background-image: url("https://images.pexels.com/photos/235985/pexels-photo-235985.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+}
+header{
+    text-align:center;
+    font-size:30px;
+    color:red;
+    font-weight:20px;
+}
+h4{
+    font-family:courier;
+    color:orange;
+
+}
+input{
+    border-radius:5px;
+    height:40px;
+    width:250px;
+    background-color:white;
+    
+}
+#register{
+    border-radius:30px;
+    background-color:red;
+
+}
+.main{
+    display:flex;
+    justify-content:center ;
+    
+}
+h3{
+    color:darkblue;
+    font-weight:20px;
+}
+
+
+.registration{
+    width: 40vw;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.about{
+    width: 40vw;
+    text-align: center;
+
+}
+
+
+h4{
+    margin-left: 320px;
+    font-size: 25px;
+    font-weight: bolder;
+    color:black;
+    margin-bottom: 0px;
+
+}
